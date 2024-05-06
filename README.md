@@ -4,7 +4,7 @@ The project consists of 4 separate parts and has to do with both shared and dist
 as well as with GPUs.  
 
 During the project, **OpenMP**, **CUDA** and **MPI** were used to parallelize common algorithms, like the kmeans algorithm,  
-the Floyd-Warshall algorithm and the heat equation problem.  
+the Floyd-Warshall algorithm, the Game of Life and the heat equation problem.  
 
 In our full report (written in Greek), we present an analysis that delves into topics such as speedup and scalibility  
 of the problems examined and comparisons of different approaches to the same problem. The output files of all the   
